@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ednaordinary
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Python
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Shell
 - 💞️ I’m looking to collaborate on Machine Learning, AI
 - 📫 Reach me at imnotednamode@gmail.com
 
