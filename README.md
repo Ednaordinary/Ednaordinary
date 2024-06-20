@@ -11,9 +11,6 @@
   <img src="https://profile-counter.glitch.me/Ednaordinary/count.svg" />
   <br>Stats<br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ednaordinary&theme=dark&hide_border=true&card_width=520" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ednaordinary&show_icons=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ednaordinary&layout=compact" /></a>
 </h2>
-
-<!---
-Ednaordinary/Ednaordinary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
