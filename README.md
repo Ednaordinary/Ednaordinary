@@ -3,7 +3,7 @@
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Python, possums <br>
 - 🌱 I’m currently learning Python, Shell <br>
 - 💞️ I’m looking to collaborate on Machine Learning, AI <br>
-- 📫 Reach me at imnotednamode@gmail.com <br>
+- 📫 Reach me at imnotednamode+git@gmail.com <br>
 </p>
 
 <h2 align="center"> 
