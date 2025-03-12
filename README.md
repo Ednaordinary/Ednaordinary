@@ -11,8 +11,6 @@
   Visits <br>
   <img src="https://profile-counter.glitch.me/Ednaordinary/count.svg" />
   <br>Stats<br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ednaordinary&theme=dark&hide_border=true&card_width=520" /></a>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Ednaordinary&show_icons=true" /></a>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ednaordinary&layout=compact" /></a>
