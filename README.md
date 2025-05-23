@@ -1,8 +1,8 @@
 <p align="center">
-- 👋 Hi, I’m Edna <br>
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, Python, possums <br>
-- 🌱 I’m currently learning Python, C++, Java<br>
-- 💞️ I’m looking to collaborate on ML, AI<br>
+- 👋 Hi, I’m Edna<br>
+- 👀 I’m interested in Machine Learning, possums<br>
+- 🌱 I’m currently learning Python, C++, Rust<br>
+- 💞️ I’m looking to collaborate on ML, cool things<br>
 - 📫 Reach me at imnotednamode+git@gmail.com<br>
 - 🌐 Learn more at https://ednamode.xyz<br>
 </p>
