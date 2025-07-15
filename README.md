@@ -9,7 +9,7 @@
 
 <h2 align="center"> 
   Visits <br>
-  <img src="https://profile-counter.glitch.me/Ednaordinary/count.svg" />
+  <img src="https://profile-counter.deno.dev/Ednaordinary/count.svg" />
   <br>Stats<br>
   <img src="https://github-readme-stats.vercel.app/api?username=Ednaordinary&show_icons=true" /></a>
   <br>
