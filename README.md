@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python, C++, Rust<br>
 - 💞️ I’m looking to collaborate on ML, cool things<br>
 - 📫 Reach me at imnotednamode+git@gmail.com<br>
-- 🌐 Learn more at https://ednamode.xyz<br>
+- 🌐 Learn more at https://edna.land<br>
 </p>
 
 <h2 align="center"> 
