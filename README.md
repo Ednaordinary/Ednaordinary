@@ -1,10 +1,10 @@
 <p align="center">
-- 👋 Hi, I’m Edna<br>
-- 👀 I’m interested in Machine Learning, possums<br>
-- 🌱 I’m currently learning Python, C++, Rust<br>
-- 💞️ I’m looking to collaborate on ML, cool things<br>
-- 📫 Reach me at imnotednamode+git@gmail.com<br>
-- 🌐 Learn more at https://edna.land<br>
+- Hi, I’m Edna! I'm a freshman at CO School of Mines<br>
+- I’m interested in Machine Learning, and possums!<br>
+- I’m currently learning Python, C++, Rust, and more<br>
+- I’m looking to collaborate on ML and other cool things<br>
+- Reach me at imnotednamode+git@gmail.com<br>
+- Learn more at https://edna.land<br>
 </p>
 
 <h2 align="center"> 
