@@ -1,6 +1,6 @@
 <p align="center">
 - Hi, I’m Edna! I'm a freshman at CO School of Mines<br>
-- I’m interested in Machine Learning, and possums!<br>
+- I’m interested in Machine Learning, and possums! (the animal lol)<br>
 - I’m currently learning Python, C++, Rust, and more<br>
 - I’m looking to collaborate on ML and other cool things<br>
 - Reach me at imnotednamode+git@gmail.com<br>
