@@ -6,8 +6,3 @@
 - Reach me at imnotednamode+git@gmail.com<br>
 - Learn more at https://edna.land<br>
 </p>
-
-<h2 align="center"> 
-  Visits <br>
-  <img src="https://profile-counter.deno.dev/Ednaordinary/count.svg" />
-</h2>
